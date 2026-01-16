@@ -20,7 +20,7 @@ What will happen is that they make incorrect arbitrary decisions and they say no
 ## How to evade reddit
 As reddit cannot be trusted to enforce its own rules - you must evade them. Some approaches: build audiences away from reddit, where possible try to move containers to someone you control.
 
-You can *separate* your use of reddit to provide protection from their policies. I.e. have a different identity for different subreddits.
+You can *separate* your use of reddit to provide protection from their policies. I.e. have a different identity for different subreddits. If you use firefox you can use profiles and he ctc: https://addons.mozilla.org/en-US/firefox/addon/open-url-in-container/ to use certain rules with certain profiles.
 
 
 
