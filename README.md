@@ -10,5 +10,9 @@ My experience is that reddit's own moderation is incapable of basic literacy. As
 
 What will happen is that they make incorrect arbitrary decisions and they say no soapboxing in the report forums. 
 
+
+## How to hold reddit to account
+
+No soapboxing: Make them eat soap - submit your reddit gripes here and I will publish them:
 <img width="428" height="408" alt="image" src="https://github.com/user-attachments/assets/3c2388e4-575d-4b36-8a63-7d9c2eaa2a14" />
 
